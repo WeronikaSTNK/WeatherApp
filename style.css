@@ -27,19 +27,22 @@ body {
 }
 
 #searchContainer {
-    padding: 15px;
+    padding: 1em;
     position: absolute;
     top: 0;
     right: 0;
 }
 
 #searchContainer input {
-    width: 200px;
+    width: 50vw;
+    height: 4vh;
 }
 
 #searchContainer button {
     background-color: rgb(1, 159, 198);
-    width: 75px;
+    width: 10vw;
+    height: 6vh;
+
 
 }
 
